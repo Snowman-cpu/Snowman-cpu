@@ -6,7 +6,7 @@
 # Hi there, I'm Uday Waghmare! 👋
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Uday_Waghmare-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/udaywaghmare6/)
-[![Twitter](https://img.shields.io/badge/Twitter-@YourHandle-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/YourHandle)
+[![Twitter](https://img.shields.io/badge/Twitter-@UdayWaghma17051-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/YourHandle)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Website-FF4088?style=for-the-badge&logo=hugo&logoColor=white)](https://your-portfolio-url.com)
 
 I'm a passionate developer currently studying **Machine Learning**. I love exploring data, building models, and constantly learning new technologies.
