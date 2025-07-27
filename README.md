@@ -48,12 +48,13 @@ I'm a passionate developer currently studying **Machine Learning**. I love explo
 
 ## 📌 Featured Projects
 <p align="center">
+    <a href="https://github.com/Snowman-cpu/Brain-tumor-Detection">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Snowman-cpu&repo=Brain-tumor-Detection&theme=radical&hide_border=true" alt="Brain Tumor Detection" />
+  </a>
   <a href="https://github.com/Snowman-cpu/Food-Recommendation-using-KNN">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Snowman-cpu&repo=Food-Recommendation-using-KNN&theme=radical&hide_border=true" alt="Food Recommendation using KNN" />
   </a>
-  <a href="https://github.com/Snowman-cpu/Brain-tumor-Detection">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Snowman-cpu&repo=Brain-tumor-Detection&theme=radical&hide_border=true" alt="Brain Tumor Detection" />
-  </a>
+
 </p>
 
 ## 🌱 Currently Learning
