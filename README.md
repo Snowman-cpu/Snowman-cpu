@@ -12,7 +12,7 @@
 I'm a passionate developer currently studying **Machine Learning**. I love exploring data, building models, and constantly learning new technologies.
 
 ## 🔭 Currently Working On
-- Building deep learning models for [specific project/purpose]
+- Building deep learning models for Spanish OCR
 - Contributing to open-source ML projects
 - Developing my personal portfolio of data science projects
 
